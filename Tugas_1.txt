@@ -2,3 +2,13 @@ Nama : Anisetus Masdian Rayadi
 NIM : 215314088
 Pemerograman Berbasis Platfrom Kelas C (INF II/2022/2023)
 Senang untuk melakukan Panahan, akan tetapi baru mencoba
+code untuk html :
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My HALO GAIS </h1>
+<p>My Saya ingin menampilkan web menggunakan bahasa html</p>
+
+</body>
+</html>
